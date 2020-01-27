@@ -1,0 +1,8 @@
+// Material theming tools
+@import '~@angular/material/theming';
+
+:host {
+    .center {
+        text-align: center;
+    }
+}
